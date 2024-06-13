@@ -2,7 +2,7 @@
 
 Certificate of completion - https://www.coursera.org/account/accomplishments/professional-cert/7YAGB7QFPFH7
 
-This repository contains the capstone project for the [Google Data Analytics Specialization](https://www.coursera.org/professional-certificates/google-data-analytics) program.
+This repository contains the capstone project for the [Google Data Analytics Specialization](https://github.com/KevinVChin/Google-Data-Analytics-Professional-Certificate/blob/main/Cyclistic.rmd) program.
 
 The program is offered through an eight-course series which contains a comprehensive curriculum towards specific aspects of data analytics. These courses are:
 
