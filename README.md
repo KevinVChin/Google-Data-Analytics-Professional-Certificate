@@ -2,6 +2,9 @@
 
 Certificate of completion - https://www.coursera.org/account/accomplishments/professional-cert/7YAGB7QFPFH7
 
+Click [here](https://kevinvchin.github.io/Google-Data-Analytics-Professional-Certificate/Cyclistic/index.html) or copy and paste the link below to view the probject:
+[https://kevinvchin.github.io/Google-Data-Analytics-Professional-Certificate/Cyclistic/index.html](https://kevinvchin.github.io/Google-Data-Analytics-Professional-Certificate/Cyclistic/index.html)
+
 This repository contains the capstone project for the [Google Data Analytics Professional Certificate](https://github.com/KevinVChin/Google-Data-Analytics-Professional-Certificate/blob/main/Cyclistic.rmd) program.
 
 The program is offered through an eight-course series which contains a comprehensive curriculum towards specific aspects of data analytics. These courses are:
